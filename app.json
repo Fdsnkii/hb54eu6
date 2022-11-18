@@ -4,18 +4,18 @@
   "keywords": ["V", "X"],
   "env": {
     "Site": {
-      "description": "自定义伪装页面，例如：https://github.com/happyevero/Html/raw/main/S-html.zip ",
+      "description": "自定义伪装页面，例如：https://github.com/wulabing/3DCEList/archive/master.zip",
       "value": "https://github.com/happyevero/Html/raw/main/S-html.zip"
     },
 
     "Vless_UUID": {
       "description": "Vless uuid（http://www.uuid.online/在线生成）",
-      "value": "f8bfb621-6728-4a6c-ae69-2106cd3d7c8a"
+      "value": "257e10ce-2477-47d4-a753-3650cb750359"
     },
 
     "Vless_Path": {
       "description": "Path路径，默认/s233,为了安全你也可以使用uuid替换，/不能少。如果开启反代，不要与反代网站存在的uri相同",
-      "value": "/vl555"
+      "value": "/7sdifh"
     },
     "Vmess_UUID": {
       "description": "Vmess uuid（http://www.uuid.online/在线生成）",
@@ -24,7 +24,7 @@
 
     "Vmess_Path": {
       "description": "Path路径，默认/s244,为了安全你也可以使用uuid替换,/不能少。如果开启反代，不要与反代网站存在的uri相同",
-      "value": "/vm666"
+      "value": "/8surkg"
     },
     
     "Share_Path": {
